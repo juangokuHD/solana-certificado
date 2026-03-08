@@ -1,4 +1,4 @@
-# Videojuegos El Macho - Tienda CRUD en Solana
+#  Tienda - Videojuegos El Macho
 
 Proyecto desarrollado como parte del Solana Latam Builders Program. Es una implementación sencilla de un CRUD (Create, Read, Update, Delete) para una tienda de videojuegos en la blockchain de Solana, usando el framework Anchor.
 
